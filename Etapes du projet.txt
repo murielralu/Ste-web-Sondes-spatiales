@@ -1,0 +1,37 @@
+Déja mis en place : express, EJS, un router tt simple, un main controller, une vue ejs, autres dépendances : dotenv, pg et sequelize
+
+
+
+Remue Méninges : en cours
+1_ Récuperer les infos sur les sondes via mes livres , les classer, identifier comment les utiliser sur le futur site: qu'est ce que je veux voir apparaitre  
+comme type d'information.
+  Récupérer les photos ou les adresses, regarder les infos récupérables via l'API de la Nasa, et via Wikipédia
+
+
+2_Créer une user-storie ( et identifier les routes)
+3_créer un wireframe
+
+Côté Back
+4_ créer une base de données relationnelles:
+        a_créer le MCD
+        b_créer le MLD
+        c_créer le MPD
+
+5_Créer Les modèles, le fichier de liaison (en fonction des données)
+6_Mise en place de l'ensemble des routes du router et du ou des contrôlleurs
+7_Mise en place des vues dynamiques ejs
+
+
+Côté Front
+8_Mettre en place le css
+9_Mise en place de l'intéraction avec l'utilisateur : traitement des évènements
+
+
+##############Démarche non finalisée ##############
+
+
+
+
+x_Définir un nom de domaine et un hébergement
+
+ 
